@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b703bc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Henrique+Ângelo;I'm+18+years+old;I+love+cats;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://media.tenor.com/_kqZQY5wX2sAAAAd/orange-cat-smile-cat-smile.gif" width="350">
+</p>
+
 <div align="center"> 
   <a href="https://github.com/Angelo-Andrade">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" /> 
