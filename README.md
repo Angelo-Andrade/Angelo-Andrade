@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b703bc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b703bc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Henrique+Angelo;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b703bc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Henrique+Ângelo;I'm+18+years+old;I+love+cats;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelo-Andrade&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
+<div align="center"> 
+  <a href="https://github.com/Angelo-Andrade">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelo-Andrade&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://www.instagram.com/lito_lito._/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -18,11 +18,13 @@
  
  ### Main skills:
  <div align="left">
+   <a href="https://github.com/Angelo-Andrade/C">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
  </div>
  
 ### Studying in this moment:
 <div align="left">
+  <a href="https://github.com/Angelo-Andrade/JavaScript_Udemy">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
