@@ -25,8 +25,10 @@
   <a href="https://github.com/Angelo-Andrade?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <a href="https://github.com/Angelo-Andrade?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </div>
+
+### Contact:
 <p>
-  <div align="center"> 
+  <div align="left"> 
   <a href="https://www.instagram.com/lito_lito._/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href = "mailto:henriqueangelo0611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-andrade-344231272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
