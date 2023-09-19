@@ -16,14 +16,16 @@
  
  ### Main skills:
  <div align="left">
-   <a href="https://github.com/Angelo-Andrade/C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+   <a href="https://github.com/Angelo-Andrade/C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="Tecnologia C"/>
+   <a href="https://github.com/Angelo-Andrade/JavaScript_Udemy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Tecnologia JavaScript"/>
+   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="Tecnologia HTML5"/>
+   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Tecnologia CSS3"/>
  </div>
  
 ### Studying in this moment:
 <div align="left">
-  <a href="https://github.com/Angelo-Andrade/JavaScript_Udemy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+   <a href="https://github.com/tenzindisaro/C-Sharp-Registro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="Tecnologia C#"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="Tecnologia MySQL"/>         
 </div>
 
 ### Contact:
