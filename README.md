@@ -8,18 +8,27 @@
 
 <div align="center"> 
   <a href="https://github.com/Angelo-Andrade" target="_blank">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
+  </a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelo-Andrade&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Main skills:
  <div align="left">
-   <a href="https://github.com/Angelo-Andrade/C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="Tecnologia C"/>
-   <a href="https://github.com/Angelo-Andrade/JavaScript_Udemy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Tecnologia JavaScript"/>
-   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="Tecnologia HTML5"/>
-   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Tecnologia CSS3"/>
+   <a href="https://github.com/Angelo-Andrade/C" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="Tecnologia C"/>
+   </a>
+   <a href="https://github.com/Angelo-Andrade/JavaScript_Udemy" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="Tecnologia JavaScript"/>
+   </a>
+   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="Tecnologia HTML5"/>
+   </a>
+   <a href="https://github.com/Angelo-Andrade?tab=repositories" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Tecnologia CSS3"/>
+   </a>
  </div>
  
 ### Studying in this moment:
@@ -31,9 +40,15 @@
 ### Contact:
 <p>
   <div align="left"> 
-  <a href="https://www.instagram.com/lito_lito._/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href = "mailto:henriqueangelo0611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-andrade-344231272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.instagram.com/lito_lito._/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href = "mailto:henriqueangelo0611@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-andrade-344231272/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  </a> 
    </div>
 </p>
   
