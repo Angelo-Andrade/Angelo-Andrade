@@ -13,8 +13,6 @@
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelo-Andrade&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
  ### Main skills:
  <div align="left">
    <a href="https://github.com/Angelo-Andrade/C" target="_blank">
@@ -36,7 +34,7 @@
    <a href="https://github.com/tenzindisaro/C-Sharp-Registro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="Tecnologia C#"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="Tecnologia MySQL"/>         
 </div>
-
+     
 ### Contact:
 <p>
   <div align="left"> 
