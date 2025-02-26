@@ -24,8 +24,8 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 
 ### Projects:
 
-<a href="https://github.com/Angelo-Andrade/ticket-flow" target="_blank"> 
-  Ticket Flow 
+<a href="https://github.com/Angelo-Andrade/ticket-flow" target="_blank">
+  Ticket Flow
 </a>
 
 <p>
@@ -35,7 +35,7 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 <br>
 
 <a href="https://github.com/Angelo-Andrade/ProjectWeb_Aroma_Sabor" target="_blank">
-  Aroma&Sabor
+  Aroma&Sabor
 </a>
 
 <p>
@@ -46,8 +46,8 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 
 <br>
 
-<a href="https://github.com/Angelo-Andrade/C-Registro" target="_blank"> 
-  C Registro
+<a href="https://github.com/Angelo-Andrade/C-Registro" target="_blank">
+  C Registro
 </a>
   
 <p>
@@ -57,7 +57,7 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 <br>
 
 <a href="https://github.com/Angelo-Andrade/C-Sharp-Registro" target="_blank">
-  C# Registro
+  C# Registro
 </a>
 
 <p>
@@ -70,22 +70,22 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 
 ### Contact:
 <div class="contact">
-  <a href = "mailto:henrique.a.c.andrade@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-andrade-344231272/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href = "mailto:henrique.a.c.andrade@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-andrade-344231272/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
 ### Github and Tecnologies stats:
 <div>
-  <a href="https://github.com/Angelo-Andrade" target="_blank">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
-  </a>
+  <a href="https://github.com/Angelo-Andrade" target="_blank">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Angelo-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=c71585&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ângelo github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Andrade&layout=compact&hide_border=true&title_color=c71585&text_color=ff91a4&bg_color=0d1117" />
+  </a>
 </div>
 
 ---
