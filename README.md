@@ -63,7 +63,7 @@ Without doubt, my main interest is BACK-END! I really love to use my creativity 
 </a>
 
 <p>
-  C# Registro is a remake of C Registro using C# language and with a database using MySQL.
+  C# Registro is a remake of C Registro using C# language and with a MySQL database.
 </p>
 
 <br>
