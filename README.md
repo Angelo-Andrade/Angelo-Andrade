@@ -12,16 +12,61 @@ I'm currently in my final year of college, pursuing a degree in Systems Analysis
 
 Without doubt, my main interest is BACK-END! I really love to use my creativity to connect tecnlogies and develop smart and performatic solutions.
 
----
-
-### Projects:
+**My main tecnlogies:**
 <div class="skills">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C# icon"/>
 </div>
+
+---
+
+### Projects:
+
+<a href="https://github.com/Angelo-Andrade/ticket-flow"> 
+  Ticket Flow 
+</a>
+
+<p>
+  Ticket Flow is a MVC web application, made with HTML5, CSS, JavaScript and Node.js, focused on managing IT trouble tickets for a Brazilian army barracks. Also, there is a implementation of some libraries and packages to improve the security and efficience of the system, how Bcrypt, Dotenv and express-session. It was developed with two databases, a MySQL one to store the tickets and users information and a Redis one to store user session informations. 
+<p>
+
+<br>
+
+<a href="https://github.com/Angelo-Andrade/ProjectWeb_Aroma_Sabor">
+  Aroma&Sabor
+</a>
+
+<p>
+  This was my first JavaScript project. It is a menu from a coffee shop. It was implemented in FireBase to host the system and the database, that is in xml type.  
+  <a href="https://project2webcoffee.web.app/">Link to the application</a>
+</p>
+
+<br>
+
+<a href="https://github.com/Angelo-Andrade/C-Registro"> 
+  C Registro
+</a>
+  
+<p>
+  C Registro was my first project, it is a console app with the propose to list the traffic of packages in a popular store in Brazil, registering when a package arrive in the store and who came and catch the package and when it happens. The traffic and packages data was being storage locally in .txt archives. 
+</p>
+
+<br>
+
+<a href="https://github.com/Angelo-Andrade/C-Sharp-Registro">
+  C# Registro
+</a>
+
+<p>
+  C# Registro is a remake of C Registro using C# language and with a database using MySQL.
+</p>
+
+<br>
+
 
 ---
 
