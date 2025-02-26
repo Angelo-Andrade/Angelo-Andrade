@@ -43,7 +43,7 @@ Without doubt, my main interest is BACK-END! I really love to use my creativity 
 <p>
   This was my first JavaScript project. It is a menu from a coffee shop. It was implemented in FireBase to host the system and the database, that is in xml type.
   <br>
-  <a href="https://project2webcoffee.web.app/" target="_blank">Link to the application</a>
+  <a href="https://project2webcoffee.web.app/" target="_blank">project2webcoffee.web.app/</a>
 </p>
 
 <br>
