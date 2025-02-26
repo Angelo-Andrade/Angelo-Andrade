@@ -26,7 +26,7 @@ Without doubt, my main interest is BACK-END! I really love to use my creativity 
 
 ### Projects:
 
-<a href="https://github.com/Angelo-Andrade/ticket-flow"> 
+<a href="https://github.com/Angelo-Andrade/ticket-flow" target="_blank"> 
   Ticket Flow 
 </a>
 
@@ -36,18 +36,18 @@ Without doubt, my main interest is BACK-END! I really love to use my creativity 
 
 <br>
 
-<a href="https://github.com/Angelo-Andrade/ProjectWeb_Aroma_Sabor">
+<a href="https://github.com/Angelo-Andrade/ProjectWeb_Aroma_Sabor" target="_blank">
   Aroma&Sabor
 </a>
 
 <p>
   This was my first JavaScript project. It is a menu from a coffee shop. It was implemented in FireBase to host the system and the database, that is in xml type.  
-  <a href="https://project2webcoffee.web.app/">Link to the application</a>
+  <a href="https://project2webcoffee.web.app/" target="_blank">Link to the application</a>
 </p>
 
 <br>
 
-<a href="https://github.com/Angelo-Andrade/C-Registro"> 
+<a href="https://github.com/Angelo-Andrade/C-Registro" target="_blank"> 
   C Registro
 </a>
   
@@ -57,7 +57,7 @@ Without doubt, my main interest is BACK-END! I really love to use my creativity 
 
 <br>
 
-<a href="https://github.com/Angelo-Andrade/C-Sharp-Registro">
+<a href="https://github.com/Angelo-Andrade/C-Sharp-Registro" target="_blank">
   C# Registro
 </a>
 
