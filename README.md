@@ -4,9 +4,6 @@
 ### Who am I?
 
 Hello! My name is Henrique Ângelo Censi de Andrade, you can call me Ângelo.
-
-For the past two years, I've gained valuable practical experience as an intern at Rhodia, a chemistry company within the Solvay Group, while pursuing my degree in Systems Analysis and Development. My primary responsibilities at Rhodia involved maintaining the company's software applications, interacting directly with users to understand their issues, and implement effective solutions. I also actively participated in several application update projects, gaining insights into stakeholder-supplier interactions and the software development lifecycle.
-
 I'm passionate about back-end development and enjoy using my creativity to connect technologies and develop smart, high-performance solutions.
 
 **My main technologies:**
