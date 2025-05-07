@@ -31,7 +31,7 @@ I'm passionate about back-end development and enjoy using my creativity to conne
 
 <br>
 
-<a href="https://github.com/Angelo-Andrade/ProjectWeb_Aroma_Sabor" target="_blank">
+<a href="https://github.com/Angelo-Andrade/React_Aroma_Sabor" target="_blank">
   Aroma&Sabor
 </a>
 
