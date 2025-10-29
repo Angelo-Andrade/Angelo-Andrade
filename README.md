@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b703bc&height=120&section=header"/>
 
-**My main technologies:**
+### My main technologies:
 
 <div class="skills">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript icon"/>
