@@ -1,11 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b703bc&height=120&section=header"/>
 
-### Who am I?
-
-Hello! My name is Henrique Ângelo Censi de Andrade, you can call me Ângelo.
-I'm passionate about back-end development and enjoy using my creativity to connect technologies and develop smart, high-performance solutions.
-
 **My main technologies:**
 
 <div class="skills">
