@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="styles.css">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b703bc&height=120&section=header"/>
-
 **My main technologies:**
 
 <div class="skills">
